@@ -6,12 +6,12 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/06 20:04:03 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/11/06 20:43:36 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 20:51:00 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Harl.hpp"
-#include "HarlMessages.hpp"
+#include "harl_messages.hpp"
 
 Harl::Harl(void) {}
 

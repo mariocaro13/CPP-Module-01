@@ -6,7 +6,7 @@
 #    By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/10/27 14:33:28 by mcaro-ro          #+#    #+#              #
-#    Updated: 2025/11/06 20:18:35 by mcaro-ro         ###   ########.fr        #
+#    Updated: 2025/11/06 20:50:46 by mcaro-ro         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -25,7 +25,7 @@ SRC_DATA = src/data
 INC_DIR = inc
 
 SRC	=	$(SRC_DIR)/main.cpp			\
-		$(SRC_DIR)/Harl.cpp		\
+		$(SRC_DATA)/Harl.cpp		\
 
 OBJS	=	$(SRC:.cpp=.o)
 
