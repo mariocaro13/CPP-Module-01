@@ -6,11 +6,12 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/27 15:13:02 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/10/27 15:40:19 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:00:07 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "main.hpp"
+#include <cstdlib>
 
 int main(int argc, char** argv) {
 	if (argc != 3) {

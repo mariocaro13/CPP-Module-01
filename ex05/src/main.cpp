@@ -6,11 +6,12 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/06 20:18:42 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/11/06 20:23:03 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:07:54 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Harl.hpp"
+#include <cstdlib>
 
 int	main(int argc, char** argv) {
 

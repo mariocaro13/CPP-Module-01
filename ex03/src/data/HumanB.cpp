@@ -6,16 +6,17 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/05 12:36:49 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/11/05 12:44:08 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:05:32 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "HumanB.hpp"
 #include <iostream>
+#include <cstddef>
 
-HumanB::HumanB(void) : name("Unnamed"), weapon(nullptr) {}
+HumanB::HumanB(void) : name("Unnamed"), weapon(NULL) {}
 
-HumanB::HumanB(std::string name) : name(name), weapon(nullptr) {}
+HumanB::HumanB(std::string name) : name(name), weapon(NULL) {}
 
 HumanB::HumanB(const HumanB& other) : name(other.name), weapon(other.weapon) {}
 

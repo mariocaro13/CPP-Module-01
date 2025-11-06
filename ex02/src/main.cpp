@@ -6,12 +6,13 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/27 15:48:01 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/10/27 16:04:42 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:03:14 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 #include <string>
+#include <cstdlib>
 
 int	main(void) {
 	std::string brain = "HI THIS IS BRAIN";

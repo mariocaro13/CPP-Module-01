@@ -6,11 +6,12 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/05 13:33:21 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/11/05 13:37:18 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:06:18 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "FileReplacer.hpp"
+#include <cstdlib>
 
 int	main(int argc, char** argv) {
 	if (argc != 4) {
