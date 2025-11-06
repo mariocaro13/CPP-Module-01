@@ -6,7 +6,7 @@
 /*   By: mcaro-ro <mcaro-ro@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/06 20:18:42 by mcaro-ro          #+#    #+#             */
-/*   Updated: 2025/11/06 21:07:54 by mcaro-ro         ###   ########.fr       */
+/*   Updated: 2025/11/06 21:21:33 by mcaro-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,4 +22,5 @@ int	main(int argc, char** argv) {
 
 	Harl harl;
 	harl.complain(argv[1]);
+	return (EXIT_SUCCESS);
 }
