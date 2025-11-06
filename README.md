@@ -8,4 +8,5 @@
 - ex05 ✅
 
 ## Bonus:
-- ex06 ❌
+- ex06 ✅
+	En el ex06 podria usar /* fall thorugh */
